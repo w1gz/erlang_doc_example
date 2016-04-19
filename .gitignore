@@ -1,0 +1,16 @@
+*~
+\#*\#
+*.beam
+*.o
+*.a
+extprg
+cserver
+
+.eunit
+deps
+*.plt
+erl_crash.dump
+ebin
+rel/example_project
+.concrete/DEV_MODE
+.rebar
